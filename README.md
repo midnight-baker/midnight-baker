@@ -6,6 +6,7 @@
 
 
 🎓 I put my education (MS in Cybersecurity and certifications in Security+, Pentest+, and CySA+) to work by designing systems that are secure by design.  
+
 💻 I enjoy developing with:
 -  TypeScript
 -  Python

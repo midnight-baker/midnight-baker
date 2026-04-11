@@ -1,5 +1,5 @@
 # About Me
-👋 Hi, I’m Ambar Castillo — a software developer and cybersecurity specialist passionate about creating useful, secure, and human-centered technology.  
+👋 Hi, I’m Ambar Castillo a software developer and cybersecurity specialist passionate about creating useful, secure, and human-centered technology.  
 💻 I’m building products that blend creativity with practicality:  
 &emsp;🍓 A sustainable jam brand that rewards customers for returning jars.  
 &emsp;🛒 A digital marketplace with custom route planning, interactive quests, and audio/video narration for travelers seeking genuine cultural experiences.  

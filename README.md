@@ -10,9 +10,6 @@
 -  TypeScript
 -  Python
 -  Java
--  Dart  
+-  Dart
+
 🌎 I'm currently based in Panama City, Panama and open to collaborating internationall in tech, security, or startup partnerships that make a real-world impact.  
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical)](https://git.io/streak-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=midnight-baker&theme=radical&locale=es)](https://git.io/streak-stats)  
